@@ -1,3 +1,0 @@
-kubectl apply -f .
-kubectl get pvc,pv
-kubectl delete -f .
